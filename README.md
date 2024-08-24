@@ -58,10 +58,10 @@
                 <img src="mapa1.gif" alt="Mapa interaktywna" usemap="#mapa_kowalski">
                 <map name="mapa_kowalski">
                     <area shape="poly" coords="5,5,95,5,50,95" href="plik1.zip" alt="Opcja 1">
-                    <area shape="rect" coords="0,100,100,150" href="https://kejpy.github.io/tabela/" target="obszar_glowny" alt="Opcja 2">
-                    <area shape="circle" coords="50,200,25" href="https://kejpy.github.io/formularz/" target="obszar_glowny" alt="Opcja 3">
+                    <area shape="rect" coords="0,100,100,150" href="https://kacperwawrzyniakpekar.github.io/tabela/" target="obszar_glowny" alt="Opcja 2">
+                    <area shape="circle" coords="50,200,25" href="https://kacperwawrzyniakpekar.github.io/Formularz./" target="obszar_glowny" alt="Opcja 3">
                     <area shape="poly" coords="5,230,95,230,50,290" href="mailto:kacper.wawrzyniakpekar@gmail.com" alt="Opcja 4">
-                    <area shape="rect" coords="0,300,100,350" href="z1_z6_Wawrzyniak-Pekar.html" target="obszar_glowny" alt="Opcja 5">
+                    <area shape="rect" coords="0,300,100,350" href="https://kacperwawrzyniakpekar.github.io/zadania-1-6/" target="obszar_glowny" alt="Opcja 5">
                 </map>
             </td>
         </tr> 
