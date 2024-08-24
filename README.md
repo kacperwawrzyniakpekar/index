@@ -37,7 +37,7 @@
     <table>
         <tr>
             <td colspan="3" class="logo-container">
-                <img src="Logotyp ZSE Gdańsk.jpg" alt="Logotyp ZSE Gdańsk" class="logo">
+                <img src="logo_zadanie_15_Wawrzyniak-Pekar.png" alt="Logotyp ZSE Gdańsk" class="logo">
             </td>
         </tr>
         <tr>
